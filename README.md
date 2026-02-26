@@ -3,7 +3,7 @@
 <h3 align="center">Aspiring specialist from St. Petersburg</h3>
 <div align="center">
 
-  <img src="assets/" alt="Proger gif" width="600" height="500"/>
+  <img src="assets/Progr.gif" alt="Proger gif" width="600" height="500"/>
 </div>
 <h3>👨‍💻 About Me:</h3>
 
