@@ -3,12 +3,12 @@
 <h3 align="center">Aspiring specialist from St. Petersburg</h3>
 <div align="center">
 
-  <img src="assets/Progr.gif" alt="Proger gif" width="600" height="500"/>
+  <img src="assets/Progr.gif" alt="Proger gif" width="500" height="400"/>
 </div>
-<h3>👨‍💻 About Me:</h3>
+<h3>  👨‍💻 About Me:</h3>
 
 
-- 📅 I have been interested in IT **for more than 6 years.**  
+- 📅 I have been interested in IT **for more than 8 years.**  
 - 📚 During all this time, I ​tried myself in various ​industry of IT. 
 - 👨‍🎓 Currently I am studying at the College of Information Technologies "**ItHub**"
 
